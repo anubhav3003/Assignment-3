@@ -8,11 +8,11 @@ on each sample to predict accuracy.
 
 ### Imbalanced Data Set
 
-* First the Imbalanced dataset is converted to balanced data set using smot oversampling.
+* First the Imbalanced dataset is converted to balanced data set using 5 different sampling techniques.
 
 ### Sampling
 
-* Functions for various sampling techniques are written in the code
+* Functions for various sampling techniques are written in the code.
 * Functions to calculate sample size are also written for every sampling technique.
 
 ### Applying Ml models and calculating accuracy
